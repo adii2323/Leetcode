@@ -35,6 +35,7 @@
 | [1539-kth-missing-positive-number](https://github.com/adii2323/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
