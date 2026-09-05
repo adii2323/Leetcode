@@ -17,6 +17,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adii2323/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adii2323/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adii2323/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adii2323/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -40,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adii2323/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adii2323/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adii2323/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -52,6 +55,11 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adii2323/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
