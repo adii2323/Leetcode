@@ -9,12 +9,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adii2323/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adii2323/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adii2323/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adii2323/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -37,6 +39,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adii2323/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adii2323/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adii2323/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -49,6 +52,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adii2323/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adii2323/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adii2323/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +62,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adii2323/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
