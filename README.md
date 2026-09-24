@@ -40,6 +40,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adii2323/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adii2323/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adii2323/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adii2323/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adii2323/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -56,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adii2323/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
