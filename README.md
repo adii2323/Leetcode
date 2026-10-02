@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adii2323/Leetcode/tree/master/0002-add-two-numbers) |
+| [0507-perfect-number](https://github.com/adii2323/Leetcode/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adii2323/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
