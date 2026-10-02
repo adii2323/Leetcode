@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/adii2323/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adii2323/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adii2323/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adii2323/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/adii2323/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adii2323/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adii2323/Leetcode/tree/master/0002-add-two-numbers) |
 | [0507-perfect-number](https://github.com/adii2323/Leetcode/tree/master/0507-perfect-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adii2323/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adii2323/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii2323/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adii2323/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
